@@ -9,6 +9,7 @@
     "terminal.integrated.fontSize": 12,
     "editor.hover.enabled": false,
     "explorer.compactFolders": false,
+    "explorer.autoReveal": false,
     "workbench.editor.enablePreview": false,
     "explorer.confirmDelete": false,
     "liveServer.settings.donotShowInfoMsg": true, /* open files in new tabs */
