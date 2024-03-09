@@ -16,7 +16,7 @@
     "files.exclude": {
         "**/.git": false
     },
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "off",
     "git.openRepositoryInParentFolders": "never",
     "editor.stickyScroll.enabled": false
 }
