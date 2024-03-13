@@ -16,8 +16,11 @@
     "files.exclude": {
         "**/.git": false
     },
-    "editor.wordWrap": "off",
     "git.openRepositoryInParentFolders": "never",
     "editor.stickyScroll.enabled": false,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "editor.wordWrap": "off",
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
 }
