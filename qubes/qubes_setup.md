@@ -4,6 +4,16 @@ Qubes configuration and setup instructions
 
 
 
+### Disable Screen Lock on Suspend
+
+System Tools > Session and Startup > Application Autostart
+
+and untick Screensaver (Launch screensaver and locker program)
+
+https://forum.qubes-os.org/t/cannot-disable-the-dom0-xscreensaver-5-4-3-locking/894/10
+
+
+
 ### Supend / Resume
 
 On the ASUS Zenbook UX461F after you close the lid to suspend/sleep the computer it will not wake from sleep, so we need to change the sleep kernel parameter to `deep`
